@@ -1,0 +1,10 @@
+.project-details-container {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-details-container > div {
+    width: 80%;
+}
